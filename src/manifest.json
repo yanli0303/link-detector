@@ -11,7 +11,7 @@
       "run_at": "document_end"
     }
   ],
-  "description": "Find links in plain text and show them on the top of the page.",
+  "description": "Find urls in plain text and show them as links on the top of the page.",
   "host_permissions": [
     "<all_urls>"
   ],
@@ -23,5 +23,5 @@
   },
   "manifest_version": 3,
   "name": "Link Detector",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
